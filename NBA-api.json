@@ -1,0 +1,3586 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "hey good morning are you around",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good night are you there",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good day how are you",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello good day",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey good day how are things going",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello good morning how is it going",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good afternoon are you around",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi good afternoon are you around?",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good night whatsup",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello are you around?",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good afternoon how is it going",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi whats up",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello good afternoon whatsup",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey good morning how are you",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good morning",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey good day are you around",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey morning whatsup",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello morning whatsup",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good night whats up",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey good morning are you there",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "morning are you around",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi morning how are things going",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi greetings",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello good morning how are things going",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good afternoon whatsup",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi good afternoon are you there",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "good day how is it going",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi greetings how are you doing",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello whatsup",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey good afternoon whatsup",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey are you around",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey are you there",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello greetings whatsup",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "morning how are you doing",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi how are you",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello greetings how is it going",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello how are things going",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello good day are you there",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello good day sup",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey good night how are you",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello good day are you around",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello good day whatsup",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey greetings are you around",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi greetings are you there",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey greetings whatsup",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hey good night whatsup",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi morning",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hi good afternoon how are things going",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "hello good morning whatsup",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "got to go farewell",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "leaving chao",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "leaving ttyl",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "im leaving now ttyl",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "bye thanks",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "talk to you soon adieu",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "got to go chau",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "heading out adieu",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "adieu thanks",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "adios",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "talk to you later adios",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "goodbye thank you",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "thank you chao",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "thank you goodbye",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "goodbye thanks",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "going out ttyl",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "have to go goodbye",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "im leaving now farewell",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "leaving adios",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "farewell thanks",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "thanks goodbye",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "got to go goodbye",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "heading out bye",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "talk to you soon farewell",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "talk to you soon chao",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "talk to you later ttyl",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "im leaving now chau",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "thank you ttyl",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "have to go farewell",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "heading out farewell",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "im leaving now goodbye",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "got to go bye",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "got to go gtg",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "adios thanks",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "thanks adios",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "got to go",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "leaving bye",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "im leaving now adieu",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "thank you adios",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "gtg thank you",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "thanks adieu",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "thank you farewell",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "chao thanks",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "going out",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "chao thank you",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "talk to you soon ttyl",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "thanks chao",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "leaving",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "chau thank you",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "heading out goodbye",
+        "intent": "bye",
+        "entities": []
+      },
+      {
+        "text": "sounds good that is what i want im ok with that",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "im ok with that that is right yes",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "affirmative",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "affirmative sounds good thank you",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "agreed that is right yes",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "affirmative yes sir",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "im ok with that",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes yep thanks",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "im ok with that im ok with that",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "agreed sounds good thank you",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "correct i want that sounds good",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yep",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "agreed affirmative thanks",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "sounds good i want that yes",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "correct that is correct agreed",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "right yes thank you",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "right that is right yep",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "affirmative i want that yep",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes that is what i want right",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "that is what i want yep",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "affirmative that is correct sounds good",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes sir you understood me yes sir",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "correct good correct",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "agreed good right",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes correct thanks",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes sir its fine im ok with that",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "correct its fine affirmative",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "sounds good that is what i want yep",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "right that is what i want affirmative",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes thanks",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yep you understood me affirmative",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "right that is right right",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "agreed i want that sounds good",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "correct i want that im ok with that",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes that is what i want affirmative",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes right",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yep that is what i want yep",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "right agreed thanks",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "sounds good that is correct yep",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "affirmative that is good",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes sir agreed",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "that is what i want im ok with that",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "affirmative that is good im ok with that",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "agreed that is right yes sir",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes sir yep",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes good right",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "im ok with that you understood me yes sir",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "im ok with that yes sir thanks",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes that is good yes",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "yes sir i want that correct",
+        "intent": "affirmative",
+        "entities": []
+      },
+      {
+        "text": "not really its not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "not really",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "that's not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "nope pls its not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "please no didnt meant that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "pls incorrect its not ok",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "don't do that please dont mean that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "nope please that's wrong",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "pls nope it's not good",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "not really pls that is wrong",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "pls no it's not good",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "i don't want that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "its not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "not really didnt meant that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "incorrect it's not good",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "no that's not what i want",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "don't do that plz that is wrong",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "don't do that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "that's not right pls didnt meant that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "pls no",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "that's not right didnt meant that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "pls no i don't want that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "don't do that plz that's wrong",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "not really please it's not good",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "no pls dont mean that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "please that's not right that is wrong",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "not really pls that's not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "nope plz that's not what i want",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "nope please",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "nope its not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "plz don't do that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "not really it's not good",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "don't do that plz didnt meant that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "don't do that please its not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "that's not right pls it's not good",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "plz that's not right dont mean that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "no plz that's wrong",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "please nope didnt meant that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "please incorrect that's not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "nope pls that's not what i want",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "incorrect plz that is wrong",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "don't do that plz its not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "pls not really didnt meant that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "didnt meant that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "nope dont mean that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "no didnt meant that",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "not really plz that's wrong",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "don't do that plz that's not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "that's not right please that's wrong",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "plz incorrect its not correct",
+        "intent": "negative",
+        "entities": []
+      },
+      {
+        "text": "I want know the wholename of OKC",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 32,
+            "entity": "team",
+            "start": 29,
+            "value": "Thunder"
+          }
+        ]
+      },
+      {
+        "text": "hello I'd like to know the wholename of United",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 46,
+            "entity": "team",
+            "start": 40,
+            "value": "United"
+          }
+        ]
+      },
+      {
+        "text": "please I want know the wholename of Bucks",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 41,
+            "entity": "team",
+            "start": 36,
+            "value": "Bucks"
+          }
+        ]
+      },
+      {
+        "text": "please I'd like to know the fullname of Hornets",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 47,
+            "entity": "team",
+            "start": 40,
+            "value": "Hornets"
+          }
+        ]
+      },
+      {
+        "text": "I want know the full name of GUA",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 32,
+            "entity": "team",
+            "start": 29,
+            "value": "Long-Lions"
+          }
+        ]
+      },
+      {
+        "text": "what is LACs the whole name",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "team",
+            "start": 8,
+            "value": "Clippers"
+          }
+        ]
+      },
+      {
+        "text": "pls I want know the full name of LAC",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 36,
+            "entity": "team",
+            "start": 33,
+            "value": "Clippers"
+          }
+        ]
+      },
+      {
+        "text": "what is BKNs fullname",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "team",
+            "start": 8,
+            "value": "Nets"
+          }
+        ]
+      },
+      {
+        "text": "please I want know the wholename of Bulls thank you",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 41,
+            "entity": "team",
+            "start": 36,
+            "value": "Bulls"
+          }
+        ]
+      },
+      {
+        "text": "what is HOUs the wholename",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "team",
+            "start": 8,
+            "value": "Rockets"
+          }
+        ]
+      },
+      {
+        "text": "pls I'd like to know the wholename of CHA",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 41,
+            "entity": "team",
+            "start": 38,
+            "value": "Hornets"
+          }
+        ]
+      },
+      {
+        "text": "hey what is the wholename of MEM thank you",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 32,
+            "entity": "team",
+            "start": 29,
+            "value": "Grizzlies"
+          }
+        ]
+      },
+      {
+        "text": "what is MAC wholename",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "team",
+            "start": 8,
+            "value": "Maccabi Haifa"
+          }
+        ]
+      },
+      {
+        "text": "what is Uniteds full name",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 14,
+            "entity": "team",
+            "start": 8,
+            "value": "United"
+          }
+        ]
+      },
+      {
+        "text": "plz I want know the whole name of BNE",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 37,
+            "entity": "team",
+            "start": 34,
+            "value": "Bullets"
+          }
+        ]
+      },
+      {
+        "text": "please I want know the wholename of Magic thanks",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 41,
+            "entity": "team",
+            "start": 36,
+            "value": "Magic"
+          }
+        ]
+      },
+      {
+        "text": "I want know the fullname of CLE",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 31,
+            "entity": "team",
+            "start": 28,
+            "value": "Cavaliers"
+          }
+        ]
+      },
+      {
+        "text": "I want know the full name of Mavericks",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 38,
+            "entity": "team",
+            "start": 29,
+            "value": "Mavericks"
+          }
+        ]
+      },
+      {
+        "text": "I'd like to know the whole name of Magic",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 40,
+            "entity": "team",
+            "start": 35,
+            "value": "Magic"
+          }
+        ]
+      },
+      {
+        "text": "I'd like to know the whole name of Mavericks thank you",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 44,
+            "entity": "team",
+            "start": 35,
+            "value": "Mavericks"
+          }
+        ]
+      },
+      {
+        "text": "what is the fullname of Pelicans",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 32,
+            "entity": "team",
+            "start": 24,
+            "value": "Pelicans"
+          }
+        ]
+      },
+      {
+        "text": "I want know the whole name of DEN thanks",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 33,
+            "entity": "team",
+            "start": 30,
+            "value": "Nuggets"
+          }
+        ]
+      },
+      {
+        "text": "maybe the full name of Nuggets",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 30,
+            "entity": "team",
+            "start": 23,
+            "value": "Nuggets"
+          }
+        ]
+      },
+      {
+        "text": "what is DEN the wholename",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "team",
+            "start": 8,
+            "value": "Nuggets"
+          }
+        ]
+      },
+      {
+        "text": "please I want know the wholename of PHI thank you",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 39,
+            "entity": "team",
+            "start": 36,
+            "value": "76ers"
+          }
+        ]
+      },
+      {
+        "text": "what is Hornetss full name",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 15,
+            "entity": "team",
+            "start": 8,
+            "value": "Hornets"
+          }
+        ]
+      },
+      {
+        "text": "hey what is the full name of Thunder",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 36,
+            "entity": "team",
+            "start": 29,
+            "value": "Thunder"
+          }
+        ]
+      },
+      {
+        "text": "what is the wholename of LAC thanks",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 28,
+            "entity": "team",
+            "start": 25,
+            "value": "Clippers"
+          }
+        ]
+      },
+      {
+        "text": "maybe the fullname of 76ers",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "team",
+            "start": 22,
+            "value": "76ers"
+          }
+        ]
+      },
+      {
+        "text": "hey I'd like to know the fullname of PHX",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 40,
+            "entity": "team",
+            "start": 37,
+            "value": "Suns"
+          }
+        ]
+      },
+      {
+        "text": "what is the wholename of Timberwolves thanks",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 37,
+            "entity": "team",
+            "start": 25,
+            "value": "Timberwolves"
+          }
+        ]
+      },
+      {
+        "text": "what is Lakerss full name",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 14,
+            "entity": "team",
+            "start": 8,
+            "value": "Lakers"
+          }
+        ]
+      },
+      {
+        "text": "what is Pacers the wholename",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 14,
+            "entity": "team",
+            "start": 8,
+            "value": "Pacers"
+          }
+        ]
+      },
+      {
+        "text": "hey what is the fullname of Hawks thank you",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 33,
+            "entity": "team",
+            "start": 28,
+            "value": "Hawks"
+          }
+        ]
+      },
+      {
+        "text": "I want know the wholename of CHA",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 32,
+            "entity": "team",
+            "start": 29,
+            "value": "Hornets"
+          }
+        ]
+      },
+      {
+        "text": "hi what is the wholename of MEM thank you",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 31,
+            "entity": "team",
+            "start": 28,
+            "value": "Grizzlies"
+          }
+        ]
+      },
+      {
+        "text": "plz I want know the whole name of Warriors thank you",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 42,
+            "entity": "team",
+            "start": 34,
+            "value": "Warriors"
+          }
+        ]
+      },
+      {
+        "text": "please I'd like to know the full name of Long-Lions thank you",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 51,
+            "entity": "team",
+            "start": 41,
+            "value": "Long-Lions"
+          }
+        ]
+      },
+      {
+        "text": "pls I'd like to know the whole name of Celtics thank you",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 46,
+            "entity": "team",
+            "start": 39,
+            "value": "Celtics"
+          }
+        ]
+      },
+      {
+        "text": "please I'd like to know the whole name of LAL thanks",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 45,
+            "entity": "team",
+            "start": 42,
+            "value": "Lakers"
+          }
+        ]
+      },
+      {
+        "text": "hello I'd like to know the whole name of DAL",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 44,
+            "entity": "team",
+            "start": 41,
+            "value": "Mavericks"
+          }
+        ]
+      },
+      {
+        "text": "hi what is the fullname of BKN thanks",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 30,
+            "entity": "team",
+            "start": 27,
+            "value": "Nets"
+          }
+        ]
+      },
+      {
+        "text": "please I want know the full name of Nuggets thank you",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 43,
+            "entity": "team",
+            "start": 36,
+            "value": "Nuggets"
+          }
+        ]
+      },
+      {
+        "text": "maybe the full name of Lakers",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 29,
+            "entity": "team",
+            "start": 23,
+            "value": "Lakers"
+          }
+        ]
+      },
+      {
+        "text": "what is CHI fullname",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "team",
+            "start": 8,
+            "value": "Bulls"
+          }
+        ]
+      },
+      {
+        "text": "pls I want know the full name of PHX thank you",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 36,
+            "entity": "team",
+            "start": 33,
+            "value": "Suns"
+          }
+        ]
+      },
+      {
+        "text": "I want know the wholename of BOS thank you",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 32,
+            "entity": "team",
+            "start": 29,
+            "value": "Celtics"
+          }
+        ]
+      },
+      {
+        "text": "I'd like to know the wholename of Mavericks thank you",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 43,
+            "entity": "team",
+            "start": 34,
+            "value": "Mavericks"
+          }
+        ]
+      },
+      {
+        "text": "hey what is the full name of MEL",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 32,
+            "entity": "team",
+            "start": 29,
+            "value": "United"
+          }
+        ]
+      },
+      {
+        "text": "maybe the whole name of Bulls",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 29,
+            "entity": "team",
+            "start": 24,
+            "value": "Bulls"
+          }
+        ]
+      },
+      {
+        "text": "what is BOSs the fullname",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "team",
+            "start": 8,
+            "value": "Celtics"
+          }
+        ]
+      },
+      {
+        "text": "hi what is the wholename of CHI",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 31,
+            "entity": "team",
+            "start": 28,
+            "value": "Bulls"
+          }
+        ]
+      },
+      {
+        "text": "hello what is the full name of 76ers",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 36,
+            "entity": "team",
+            "start": 31,
+            "value": "76ers"
+          }
+        ]
+      },
+      {
+        "text": "hello I'd like to know the whole name of Nets",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 45,
+            "entity": "team",
+            "start": 41,
+            "value": "Nets"
+          }
+        ]
+      },
+      {
+        "text": "please I'd like to know the wholename of Celtics",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 48,
+            "entity": "team",
+            "start": 41,
+            "value": "Celtics"
+          }
+        ]
+      },
+      {
+        "text": "hello I'd like to know the whole name of MIN",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 44,
+            "entity": "team",
+            "start": 41,
+            "value": "Timberwolves"
+          }
+        ]
+      },
+      {
+        "text": "what is DAL the whole name",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "team",
+            "start": 8,
+            "value": "Mavericks"
+          }
+        ]
+      },
+      {
+        "text": "what is Nets fullname",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 12,
+            "entity": "team",
+            "start": 8,
+            "value": "Nets"
+          }
+        ]
+      },
+      {
+        "text": "hey what is the whole name of Magic thank you",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 35,
+            "entity": "team",
+            "start": 30,
+            "value": "Magic"
+          }
+        ]
+      },
+      {
+        "text": "what is CLEs the wholename",
+        "intent": "team_fullname",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "team",
+            "start": 8,
+            "value": "Cavaliers"
+          }
+        ]
+      },
+      {
+        "text": "hello what is nickname of DAL",
+        "intent": "team_nickname",
+        "entities": [
+          {
+            "end": 29,
+            "entity": "team",
+            "start": 26,
+            "value": "Mavericks"
+          }
+        ]
+      },
+      {
+        "text": "hey I'd like to know the nickname of IND",
+        "intent": "team_nickname",
+        "entities": [
+          {
+            "end": 40,
+            "entity": "team",
+            "start": 37,
+            "value": "Pacers"
+          }
+        ]
+      },
+      {
+        "text": "hey what is the nickname of DET thanks",
+        "intent": "team_nickname",
+        "entities": [
+          {
+            "end": 31,
+            "entity": "team",
+            "start": 28,
+            "value": "Pistons"
+          }
+        ]
+      },
+      {
+        "text": "what is LAC nickname",
+        "intent": "team_nickname",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "team",
+            "start": 8,
+            "value": "Clippers"
+          }
+        ]
+      },
+      {
+        "text": "I'd like to know the nickname of GUA",
+        "intent": "team_nickname",
+        "entities": [
+          {
+            "end": 36,
+            "entity": "team",
+            "start": 33,
+            "value": "Long-Lions"
+          }
+        ]
+      },
+      {
+        "text": "maybe the nick name of DET",
+        "intent": "team_nickname",
+        "entities": [
+          {
+            "end": 26,
+            "entity": "team",
+            "start": 23,
+            "value": "Pistons"
+          }
+        ]
+      },
+      {
+        "text": "hello I'd like to know the nickname of LAL thanks",
+        "intent": "team_nickname",
+        "entities": [
+          {
+            "end": 42,
+            "entity": "team",
+            "start": 39,
+            "value": "Lakers"
+          }
+        ]
+      },
+      {
+        "text": "hey please I'd like to know the nickname of PHX",
+        "intent": "team_nickname",
+        "entities": [
+          {
+            "end": 47,
+            "entity": "team",
+            "start": 44,
+            "value": "Suns"
+          }
+        ]
+      },
+      {
+        "text": "hey what is nickname of GSW thanks",
+        "intent": "team_nickname",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "team",
+            "start": 24,
+            "value": "Warriors"
+          }
+        ]
+      },
+      {
+        "text": "hi pls I'd like to know the nickname of MEL",
+        "intent": "team_nickname",
+        "entities": [
+          {
+            "end": 43,
+            "entity": "team",
+            "start": 40,
+            "value": "United"
+          }
+        ]
+      },
+      {
+        "text": "maybe nickname of GSW",
+        "intent": "team_nickname",
+        "entities": [
+          {
+            "end": 21,
+            "entity": "team",
+            "start": 18,
+            "value": "Warriors"
+          }
+        ]
+      },
+      {
+        "text": "hello I'd like to know the nickname of CHA",
+        "intent": "team_nickname",
+        "entities": [
+          {
+            "end": 42,
+            "entity": "team",
+            "start": 39,
+            "value": "Hornets"
+          }
+        ]
+      },
+      {
+        "text": "hello please I'd like to know the nick name of DAL",
+        "intent": "team_nickname",
+        "entities": [
+          {
+            "end": 50,
+            "entity": "team",
+            "start": 47,
+            "value": "Mavericks"
+          }
+        ]
+      },
+      {
+        "text": "what is ORLs nick name",
+        "intent": "team_nickname",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "team",
+            "start": 8,
+            "value": "Magic"
+          }
+        ]
+      },
+      {
+        "text": "what is GSW the nick name",
+        "intent": "team_nickname",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "team",
+            "start": 8,
+            "value": "Warriors"
+          }
+        ]
+      },
+      {
+        "text": "hi I want know the nickname of GSW",
+        "intent": "team_nickname",
+        "entities": [
+          {
+            "end": 34,
+            "entity": "team",
+            "start": 31,
+            "value": "Warriors"
+          }
+        ]
+      },
+      {
+        "text": "what is LACs the nick name",
+        "intent": "team_nickname",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "team",
+            "start": 8,
+            "value": "Clippers"
+          }
+        ]
+      },
+      {
+        "text": "hey I'd like to know the nickname of BOS",
+        "intent": "team_nickname",
+        "entities": [
+          {
+            "end": 40,
+            "entity": "team",
+            "start": 37,
+            "value": "Celtics"
+          }
+        ]
+      },
+      {
+        "text": "hi plz I'd like to know the nickname of DAL",
+        "intent": "team_nickname",
+        "entities": [
+          {
+            "end": 43,
+            "entity": "team",
+            "start": 40,
+            "value": "Mavericks"
+          }
+        ]
+      },
+      {
+        "text": "maybe the nick name of LAC",
+        "intent": "team_nickname",
+        "entities": [
+          {
+            "end": 26,
+            "entity": "team",
+            "start": 23,
+            "value": "Clippers"
+          }
+        ]
+      },
+      {
+        "text": "hello I want know the shortname of Mavericks thanks",
+        "intent": "team_shortname",
+        "entities": [
+          {
+            "end": 44,
+            "entity": "team",
+            "start": 35,
+            "value": "Mavericks"
+          }
+        ]
+      },
+      {
+        "text": "hi I want know the shortname of Portland Trail Blazers",
+        "intent": "team_shortname",
+        "entities": [
+          {
+            "end": 54,
+            "entity": "team",
+            "start": 32,
+            "value": "Trail Blazers"
+          }
+        ]
+      },
+      {
+        "text": "I'd like to know the shortname of LA Clippers",
+        "intent": "team_shortname",
+        "entities": [
+          {
+            "end": 45,
+            "entity": "team",
+            "start": 34,
+            "value": "Clippers"
+          }
+        ]
+      },
+      {
+        "text": "what is Rockets the shortname",
+        "intent": "team_shortname",
+        "entities": [
+          {
+            "end": 15,
+            "entity": "team",
+            "start": 8,
+            "value": "Rockets"
+          }
+        ]
+      },
+      {
+        "text": "maybe the shortname of Miami Heat",
+        "intent": "team_shortname",
+        "entities": [
+          {
+            "end": 33,
+            "entity": "team",
+            "start": 23,
+            "value": "Heat"
+          }
+        ]
+      },
+      {
+        "text": "what is Thunder short name",
+        "intent": "team_shortname",
+        "entities": [
+          {
+            "end": 15,
+            "entity": "team",
+            "start": 8,
+            "value": "Thunder"
+          }
+        ]
+      },
+      {
+        "text": "hello I'd like to know the shortname of Hawks",
+        "intent": "team_shortname",
+        "entities": [
+          {
+            "end": 45,
+            "entity": "team",
+            "start": 40,
+            "value": "Hawks"
+          }
+        ]
+      },
+      {
+        "text": "hey I'd like to know the shortname of Denver Nuggets",
+        "intent": "team_shortname",
+        "entities": [
+          {
+            "end": 52,
+            "entity": "team",
+            "start": 38,
+            "value": "Nuggets"
+          }
+        ]
+      },
+      {
+        "text": "maybe the shortname of Indiana Pacers",
+        "intent": "team_shortname",
+        "entities": [
+          {
+            "end": 37,
+            "entity": "team",
+            "start": 23,
+            "value": "Pacers"
+          }
+        ]
+      },
+      {
+        "text": "hi I'd like to know the shortname of Milwaukee Bucks",
+        "intent": "team_shortname",
+        "entities": [
+          {
+            "end": 52,
+            "entity": "team",
+            "start": 37,
+            "value": "Bucks"
+          }
+        ]
+      },
+      {
+        "text": "I want know the shortname of Detroit Pistons",
+        "intent": "team_shortname",
+        "entities": [
+          {
+            "end": 44,
+            "entity": "team",
+            "start": 29,
+            "value": "Pistons"
+          }
+        ]
+      },
+      {
+        "text": "maybe the shortname of Milwaukee Bucks",
+        "intent": "team_shortname",
+        "entities": [
+          {
+            "end": 38,
+            "entity": "team",
+            "start": 23,
+            "value": "Bucks"
+          }
+        ]
+      },
+      {
+        "text": "hey I want know the shortname of Memphis Grizzlies thanks",
+        "intent": "team_shortname",
+        "entities": [
+          {
+            "end": 50,
+            "entity": "team",
+            "start": 33,
+            "value": "Grizzlies"
+          }
+        ]
+      },
+      {
+        "text": "what is Pistons the shortname",
+        "intent": "team_shortname",
+        "entities": [
+          {
+            "end": 15,
+            "entity": "team",
+            "start": 8,
+            "value": "Pistons"
+          }
+        ]
+      },
+      {
+        "text": "hello I'd like to know the shortname of Grizzlies",
+        "intent": "team_shortname",
+        "entities": [
+          {
+            "end": 49,
+            "entity": "team",
+            "start": 40,
+            "value": "Grizzlies"
+          }
+        ]
+      },
+      {
+        "text": "pls I'd like to know the shortname of Cavaliers thanks",
+        "intent": "team_shortname",
+        "entities": [
+          {
+            "end": 47,
+            "entity": "team",
+            "start": 38,
+            "value": "Cavaliers"
+          }
+        ]
+      },
+      {
+        "text": "what is Haifa Maccabi Haifa short name",
+        "intent": "team_shortname",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "team",
+            "start": 8,
+            "value": "Maccabi Haifa"
+          }
+        ]
+      },
+      {
+        "text": "what is Detroit Pistons short name",
+        "intent": "team_shortname",
+        "entities": [
+          {
+            "end": 23,
+            "entity": "team",
+            "start": 8,
+            "value": "Pistons"
+          }
+        ]
+      },
+      {
+        "text": "hey what is United",
+        "intent": "team_shortname",
+        "entities": [
+          {
+            "end": 18,
+            "entity": "team",
+            "start": 12,
+            "value": "United"
+          }
+        ]
+      },
+      {
+        "text": "hey I'd like to know the shortname of Charlotte Hornets",
+        "intent": "team_shortname",
+        "entities": [
+          {
+            "end": 55,
+            "entity": "team",
+            "start": 38,
+            "value": "Hornets"
+          }
+        ]
+      },
+      {
+        "text": "hello what is Chicago Bulls thanks",
+        "intent": "team_shortname",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "team",
+            "start": 14,
+            "value": "Bulls"
+          }
+        ]
+      },
+      {
+        "text": "hey the shortname of 76ers thank you",
+        "intent": "team_shortname",
+        "entities": [
+          {
+            "end": 26,
+            "entity": "team",
+            "start": 21,
+            "value": "76ers"
+          }
+        ]
+      },
+      {
+        "text": "what is Houston Rockets the shortname",
+        "intent": "team_shortname",
+        "entities": [
+          {
+            "end": 23,
+            "entity": "team",
+            "start": 8,
+            "value": "Rockets"
+          }
+        ]
+      },
+      {
+        "text": "hi what is United thank you",
+        "intent": "team_shortname",
+        "entities": [
+          {
+            "end": 17,
+            "entity": "team",
+            "start": 11,
+            "value": "United"
+          }
+        ]
+      },
+      {
+        "text": "what is New York Knicks the shortname",
+        "intent": "team_shortname",
+        "entities": [
+          {
+            "end": 23,
+            "entity": "team",
+            "start": 8,
+            "value": "Knicks"
+          }
+        ]
+      },
+      {
+        "text": "what is the location of Knicks",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 30,
+            "entity": "team",
+            "start": 24,
+            "value": "Knicks"
+          }
+        ]
+      },
+      {
+        "text": "what is the location of Melbourne United",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 40,
+            "entity": "team",
+            "start": 24,
+            "value": "United"
+          }
+        ]
+      },
+      {
+        "text": "plz tell me where is Haifa Maccabi Haifa thank you",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 40,
+            "entity": "team",
+            "start": 21,
+            "value": "Maccabi Haifa"
+          }
+        ]
+      },
+      {
+        "text": "what is the position of Suns",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 28,
+            "entity": "team",
+            "start": 24,
+            "value": "Suns"
+          }
+        ]
+      },
+      {
+        "text": "what is the position of CHA",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "team",
+            "start": 24,
+            "value": "Hornets"
+          }
+        ]
+      },
+      {
+        "text": "what is the position of GSW",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "team",
+            "start": 24,
+            "value": "Warriors"
+          }
+        ]
+      },
+      {
+        "text": "tell me Minnesota Timberwolves site",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 30,
+            "entity": "team",
+            "start": 8,
+            "value": "Timberwolves"
+          }
+        ]
+      },
+      {
+        "text": "tell me Memphis Grizzlies location",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 25,
+            "entity": "team",
+            "start": 8,
+            "value": "Grizzlies"
+          }
+        ]
+      },
+      {
+        "text": "what is the location of Bullets",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 31,
+            "entity": "team",
+            "start": 24,
+            "value": "Bullets"
+          }
+        ]
+      },
+      {
+        "text": "what is the position of DET",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "team",
+            "start": 24,
+            "value": "Pistons"
+          }
+        ]
+      },
+      {
+        "text": "what city GSW located at",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 13,
+            "entity": "team",
+            "start": 10,
+            "value": "Warriors"
+          }
+        ]
+      },
+      {
+        "text": "what is the position of Portland Trail Blazers",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 46,
+            "entity": "team",
+            "start": 24,
+            "value": "Trail Blazers"
+          }
+        ]
+      },
+      {
+        "text": "what is the location of CHA",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "team",
+            "start": 24,
+            "value": "Hornets"
+          }
+        ]
+      },
+      {
+        "text": "tell me Trail Blazers site",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 21,
+            "entity": "team",
+            "start": 8,
+            "value": "Trail Blazers"
+          }
+        ]
+      },
+      {
+        "text": "I want to know Timberwolves site",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "team",
+            "start": 15,
+            "value": "Timberwolves"
+          }
+        ]
+      },
+      {
+        "text": "tell me PHX position",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "team",
+            "start": 8,
+            "value": "Suns"
+          }
+        ]
+      },
+      {
+        "text": "hello I want to know Rockets location",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 28,
+            "entity": "team",
+            "start": 21,
+            "value": "Rockets"
+          }
+        ]
+      },
+      {
+        "text": "what is the position of Melbourne United",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 40,
+            "entity": "team",
+            "start": 24,
+            "value": "United"
+          }
+        ]
+      },
+      {
+        "text": "hey I want to know where is GSW thank you",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 31,
+            "entity": "team",
+            "start": 28,
+            "value": "Warriors"
+          }
+        ]
+      },
+      {
+        "text": "what is the position of Phoenix Suns",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 36,
+            "entity": "team",
+            "start": 24,
+            "value": "Suns"
+          }
+        ]
+      },
+      {
+        "text": "what is the location of MIL",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "team",
+            "start": 24,
+            "value": "Bucks"
+          }
+        ]
+      },
+      {
+        "text": "tell me Magic position",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 13,
+            "entity": "team",
+            "start": 8,
+            "value": "Magic"
+          }
+        ]
+      },
+      {
+        "text": "I want to know BNE position",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 18,
+            "entity": "team",
+            "start": 15,
+            "value": "Bullets"
+          }
+        ]
+      },
+      {
+        "text": "hello I want to know CHI position",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 24,
+            "entity": "team",
+            "start": 21,
+            "value": "Bulls"
+          }
+        ]
+      },
+      {
+        "text": "hello tell me Haifa Maccabi Haifa position",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 33,
+            "entity": "team",
+            "start": 14,
+            "value": "Maccabi Haifa"
+          }
+        ]
+      },
+      {
+        "text": "what city Trail Blazers located at",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 23,
+            "entity": "team",
+            "start": 10,
+            "value": "Trail Blazers"
+          }
+        ]
+      },
+      {
+        "text": "hey please tell me where is MIL thanks",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 31,
+            "entity": "team",
+            "start": 28,
+            "value": "Bucks"
+          }
+        ]
+      },
+      {
+        "text": "hey I want to know Chicago Bulls location",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 32,
+            "entity": "team",
+            "start": 19,
+            "value": "Bulls"
+          }
+        ]
+      },
+      {
+        "text": "what is the position of NYK",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "team",
+            "start": 24,
+            "value": "Knicks"
+          }
+        ]
+      },
+      {
+        "text": "hello tell me where is Hornets thank you",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 30,
+            "entity": "team",
+            "start": 23,
+            "value": "Hornets"
+          }
+        ]
+      },
+      {
+        "text": "what is the location of MIN",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "team",
+            "start": 24,
+            "value": "Timberwolves"
+          }
+        ]
+      },
+      {
+        "text": "tell me Memphis Grizzlies position",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 25,
+            "entity": "team",
+            "start": 8,
+            "value": "Grizzlies"
+          }
+        ]
+      },
+      {
+        "text": "what is the position of HOU",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "team",
+            "start": 24,
+            "value": "Rockets"
+          }
+        ]
+      },
+      {
+        "text": "what city Bucks located at",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 15,
+            "entity": "team",
+            "start": 10,
+            "value": "Bucks"
+          }
+        ]
+      },
+      {
+        "text": "what is the location of Nuggets",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 31,
+            "entity": "team",
+            "start": 24,
+            "value": "Nuggets"
+          }
+        ]
+      },
+      {
+        "text": "hi I want to know Nets location",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 22,
+            "entity": "team",
+            "start": 18,
+            "value": "Nets"
+          }
+        ]
+      },
+      {
+        "text": "what is the location of Atlanta Hawks",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 37,
+            "entity": "team",
+            "start": 24,
+            "value": "Hawks"
+          }
+        ]
+      },
+      {
+        "text": "hello tell me MEL position",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 17,
+            "entity": "team",
+            "start": 14,
+            "value": "United"
+          }
+        ]
+      },
+      {
+        "text": "hi plz tell me where is MIN thanks",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "team",
+            "start": 24,
+            "value": "Timberwolves"
+          }
+        ]
+      },
+      {
+        "text": "plz tell me where is Nets thanks",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 25,
+            "entity": "team",
+            "start": 21,
+            "value": "Nets"
+          }
+        ]
+      },
+      {
+        "text": "hi I want to know Dallas Mavericks site",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 34,
+            "entity": "team",
+            "start": 18,
+            "value": "Mavericks"
+          }
+        ]
+      },
+      {
+        "text": "what is the position of CHI",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "team",
+            "start": 24,
+            "value": "Bulls"
+          }
+        ]
+      },
+      {
+        "text": "tell me CLE location",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "team",
+            "start": 8,
+            "value": "Cavaliers"
+          }
+        ]
+      },
+      {
+        "text": "what is the position of Pacers",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 30,
+            "entity": "team",
+            "start": 24,
+            "value": "Pacers"
+          }
+        ]
+      },
+      {
+        "text": "tell me PHX site",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "team",
+            "start": 8,
+            "value": "Suns"
+          }
+        ]
+      },
+      {
+        "text": "I want to know DET position",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 18,
+            "entity": "team",
+            "start": 15,
+            "value": "Pistons"
+          }
+        ]
+      },
+      {
+        "text": "what city Hornets located at",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 17,
+            "entity": "team",
+            "start": 10,
+            "value": "Hornets"
+          }
+        ]
+      },
+      {
+        "text": "what is the position of Milwaukee Bucks",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 39,
+            "entity": "team",
+            "start": 24,
+            "value": "Bucks"
+          }
+        ]
+      },
+      {
+        "text": "hello plz tell me where is Guangzhou Long-Lions thank you",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 47,
+            "entity": "team",
+            "start": 27,
+            "value": "Long-Lions"
+          }
+        ]
+      },
+      {
+        "text": "what is the location of Philadelphia 76ers",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 42,
+            "entity": "team",
+            "start": 24,
+            "value": "76ers"
+          }
+        ]
+      },
+      {
+        "text": "what city Memphis Grizzlies located at",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "team",
+            "start": 10,
+            "value": "Grizzlies"
+          }
+        ]
+      },
+      {
+        "text": "what city GUA located at",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 13,
+            "entity": "team",
+            "start": 10,
+            "value": "Long-Lions"
+          }
+        ]
+      },
+      {
+        "text": "what is the position of Minnesota Timberwolves",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 46,
+            "entity": "team",
+            "start": 24,
+            "value": "Timberwolves"
+          }
+        ]
+      },
+      {
+        "text": "what city BOS located at",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 13,
+            "entity": "team",
+            "start": 10,
+            "value": "Celtics"
+          }
+        ]
+      },
+      {
+        "text": "what is the location of Suns",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 28,
+            "entity": "team",
+            "start": 24,
+            "value": "Suns"
+          }
+        ]
+      },
+      {
+        "text": "I want to know Grizzlies location",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 24,
+            "entity": "team",
+            "start": 15,
+            "value": "Grizzlies"
+          }
+        ]
+      },
+      {
+        "text": "hi please tell me where is LA Clippers thank you",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 38,
+            "entity": "team",
+            "start": 27,
+            "value": "Clippers"
+          }
+        ]
+      },
+      {
+        "text": "I want to know Mavericks location",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 24,
+            "entity": "team",
+            "start": 15,
+            "value": "Mavericks"
+          }
+        ]
+      },
+      {
+        "text": "hey tell me ORL position",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 15,
+            "entity": "team",
+            "start": 12,
+            "value": "Magic"
+          }
+        ]
+      },
+      {
+        "text": "what is the position of Orlando Magic",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 37,
+            "entity": "team",
+            "start": 24,
+            "value": "Magic"
+          }
+        ]
+      },
+      {
+        "text": "please I want to know where is Pacers thanks",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 37,
+            "entity": "team",
+            "start": 31,
+            "value": "Pacers"
+          }
+        ]
+      },
+      {
+        "text": "hi I want to know New York Knicks site",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 33,
+            "entity": "team",
+            "start": 18,
+            "value": "Knicks"
+          }
+        ]
+      },
+      {
+        "text": "what city CHA located at",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 13,
+            "entity": "team",
+            "start": 10,
+            "value": "Hornets"
+          }
+        ]
+      },
+      {
+        "text": "what is the location of PHX",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "team",
+            "start": 24,
+            "value": "Suns"
+          }
+        ]
+      },
+      {
+        "text": "plz I want to know where is GSW",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 31,
+            "entity": "team",
+            "start": 28,
+            "value": "Warriors"
+          }
+        ]
+      },
+      {
+        "text": "what is the location of Boston Celtics",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 38,
+            "entity": "team",
+            "start": 24,
+            "value": "Celtics"
+          }
+        ]
+      },
+      {
+        "text": "what is the location of BNE",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "team",
+            "start": 24,
+            "value": "Bullets"
+          }
+        ]
+      },
+      {
+        "text": "hey please tell me where is Cleveland Cavaliers",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 47,
+            "entity": "team",
+            "start": 28,
+            "value": "Cavaliers"
+          }
+        ]
+      },
+      {
+        "text": "hey plz I want to know where is GSW thanks",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 35,
+            "entity": "team",
+            "start": 32,
+            "value": "Warriors"
+          }
+        ]
+      },
+      {
+        "text": "hello tell me Cavaliers location",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 23,
+            "entity": "team",
+            "start": 14,
+            "value": "Cavaliers"
+          }
+        ]
+      },
+      {
+        "text": "what city PHX located at",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 13,
+            "entity": "team",
+            "start": 10,
+            "value": "Suns"
+          }
+        ]
+      },
+      {
+        "text": "I want to know PHX location",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 18,
+            "entity": "team",
+            "start": 15,
+            "value": "Suns"
+          }
+        ]
+      },
+      {
+        "text": "hey please I want to know where is MIL thank you",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 38,
+            "entity": "team",
+            "start": 35,
+            "value": "Bucks"
+          }
+        ]
+      },
+      {
+        "text": "hey I want to know Mavericks site",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 28,
+            "entity": "team",
+            "start": 19,
+            "value": "Mavericks"
+          }
+        ]
+      },
+      {
+        "text": "what is the position of Golden State Warriors",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 45,
+            "entity": "team",
+            "start": 24,
+            "value": "Warriors"
+          }
+        ]
+      },
+      {
+        "text": "hello tell me Milwaukee Bucks location",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 29,
+            "entity": "team",
+            "start": 14,
+            "value": "Bucks"
+          }
+        ]
+      },
+      {
+        "text": "what is the location of New York Knicks",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 39,
+            "entity": "team",
+            "start": 24,
+            "value": "Knicks"
+          }
+        ]
+      },
+      {
+        "text": "hello I want to know Chicago Bulls location",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 34,
+            "entity": "team",
+            "start": 21,
+            "value": "Bulls"
+          }
+        ]
+      },
+      {
+        "text": "what city New Orleans Pelicans located at",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 30,
+            "entity": "team",
+            "start": 10,
+            "value": "Pelicans"
+          }
+        ]
+      },
+      {
+        "text": "I want to know CLE location",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 18,
+            "entity": "team",
+            "start": 15,
+            "value": "Cavaliers"
+          }
+        ]
+      },
+      {
+        "text": "what is the position of Lakers",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 30,
+            "entity": "team",
+            "start": 24,
+            "value": "Lakers"
+          }
+        ]
+      },
+      {
+        "text": "I want to know Timberwolves position",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "team",
+            "start": 15,
+            "value": "Timberwolves"
+          }
+        ]
+      },
+      {
+        "text": "hey plz I want to know where is MIL",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 35,
+            "entity": "team",
+            "start": 32,
+            "value": "Bucks"
+          }
+        ]
+      },
+      {
+        "text": "I want to know Long-Lions position",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 25,
+            "entity": "team",
+            "start": 15,
+            "value": "Long-Lions"
+          }
+        ]
+      },
+      {
+        "text": "hi I want to know LAL location",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 21,
+            "entity": "team",
+            "start": 18,
+            "value": "Lakers"
+          }
+        ]
+      },
+      {
+        "text": "I want to know PHI location",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 18,
+            "entity": "team",
+            "start": 15,
+            "value": "76ers"
+          }
+        ]
+      },
+      {
+        "text": "hello tell me CHI position",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 17,
+            "entity": "team",
+            "start": 14,
+            "value": "Bulls"
+          }
+        ]
+      },
+      {
+        "text": "tell me 76ers position",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 13,
+            "entity": "team",
+            "start": 8,
+            "value": "76ers"
+          }
+        ]
+      },
+      {
+        "text": "what is the location of Memphis Grizzlies",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 41,
+            "entity": "team",
+            "start": 24,
+            "value": "Grizzlies"
+          }
+        ]
+      },
+      {
+        "text": "I want to know Long-Lions site",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 25,
+            "entity": "team",
+            "start": 15,
+            "value": "Long-Lions"
+          }
+        ]
+      },
+      {
+        "text": "what is the position of Detroit Pistons",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 39,
+            "entity": "team",
+            "start": 24,
+            "value": "Pistons"
+          }
+        ]
+      },
+      {
+        "text": "tell me ATL site",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 11,
+            "entity": "team",
+            "start": 8,
+            "value": "Hawks"
+          }
+        ]
+      },
+      {
+        "text": "I want to know Brisbane Bullets location",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 31,
+            "entity": "team",
+            "start": 15,
+            "value": "Bullets"
+          }
+        ]
+      },
+      {
+        "text": "hey I want to know Suns location",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 23,
+            "entity": "team",
+            "start": 19,
+            "value": "Suns"
+          }
+        ]
+      },
+      {
+        "text": "I want to know Maccabi Haifa location",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 28,
+            "entity": "team",
+            "start": 15,
+            "value": "Maccabi Haifa"
+          }
+        ]
+      },
+      {
+        "text": "I want to know Bucks site",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 20,
+            "entity": "team",
+            "start": 15,
+            "value": "Bucks"
+          }
+        ]
+      },
+      {
+        "text": "what city DAL located at",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 13,
+            "entity": "team",
+            "start": 10,
+            "value": "Mavericks"
+          }
+        ]
+      },
+      {
+        "text": "what is the location of Mavericks",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 33,
+            "entity": "team",
+            "start": 24,
+            "value": "Mavericks"
+          }
+        ]
+      },
+      {
+        "text": "what is the location of DAL",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "team",
+            "start": 24,
+            "value": "Mavericks"
+          }
+        ]
+      },
+      {
+        "text": "I want to know Rockets site",
+        "intent": "team_location",
+        "entities": [
+          {
+            "end": 22,
+            "entity": "team",
+            "start": 15,
+            "value": "Rockets"
+          }
+        ]
+      },
+      {
+        "text": "CHA id",
+        "intent": "team_Id",
+        "entities": [
+          {
+            "end": 3,
+            "entity": "team",
+            "start": 0,
+            "value": "Hornets"
+          }
+        ]
+      },
+      {
+        "text": "what is the Maccabi Haifa ID",
+        "intent": "team_Id",
+        "entities": [
+          {
+            "end": 25,
+            "entity": "team",
+            "start": 12,
+            "value": "Maccabi Haifa"
+          }
+        ]
+      },
+      {
+        "text": "maybe BNE id",
+        "intent": "team_Id",
+        "entities": [
+          {
+            "end": 9,
+            "entity": "team",
+            "start": 6,
+            "value": "Bullets"
+          }
+        ]
+      },
+      {
+        "text": "hey pls Haifa Maccabi Haifa",
+        "intent": "team_Id",
+        "entities": [
+          {
+            "end": 27,
+            "entity": "team",
+            "start": 8,
+            "value": "Maccabi Haifa"
+          }
+        ]
+      },
+      {
+        "text": "Celtics Id",
+        "intent": "team_Id",
+        "entities": [
+          {
+            "end": 7,
+            "entity": "team",
+            "start": 0,
+            "value": "Celtics"
+          }
+        ]
+      },
+      {
+        "text": "what is the NYK Id",
+        "intent": "team_Id",
+        "entities": [
+          {
+            "end": 15,
+            "entity": "team",
+            "start": 12,
+            "value": "Knicks"
+          }
+        ]
+      },
+      {
+        "text": "hey I want to know Philadelphia 76ers id thank you",
+        "intent": "team_Id",
+        "entities": [
+          {
+            "end": 37,
+            "entity": "team",
+            "start": 19,
+            "value": "76ers"
+          }
+        ]
+      },
+      {
+        "text": "hello please tell me the ID of Celtics thank you",
+        "intent": "team_Id",
+        "entities": [
+          {
+            "end": 38,
+            "entity": "team",
+            "start": 31,
+            "value": "Celtics"
+          }
+        ]
+      },
+      {
+        "text": "hey plz give me information about Haifa Maccabi Haifa thanks",
+        "intent": "team_Id",
+        "entities": [
+          {
+            "end": 53,
+            "entity": "team",
+            "start": 34,
+            "value": "Maccabi Haifa"
+          }
+        ]
+      },
+      {
+        "text": "please give me information about Philadelphia 76ers thank you",
+        "intent": "team_Id",
+        "entities": [
+          {
+            "end": 51,
+            "entity": "team",
+            "start": 33,
+            "value": "76ers"
+          }
+        ]
+      }
+    ]
+  }
+}
