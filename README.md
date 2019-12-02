@@ -1,5 +1,6 @@
 # NBA-telegram-bot
 这是一个NBA telegram bot自动回复的聊天程序。<br>
+-------
 本项目主要用到了这些方法：<br>
 1、同一个问题多种选择性的回答<br>
 2、通过spaCy来进行命名实体识别<br>
